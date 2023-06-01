@@ -1,0 +1,5 @@
+export const TABLE = {
+  FIRST_LETTER_CODE: 65,
+  LAST_LETTER_CODE: 90,
+  ALPHABET_COUNT: 25,
+};
