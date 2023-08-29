@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ampla-frontend-test/static/js/main.4d0670af.js",
-    "static/js/787.e77b6fc8.chunk.js": "/ampla-frontend-test/static/js/787.e77b6fc8.chunk.js",
-    "index.html": "/ampla-frontend-test/index.html",
-    "main.4d0670af.js.map": "/ampla-frontend-test/static/js/main.4d0670af.js.map",
-    "787.e77b6fc8.chunk.js.map": "/ampla-frontend-test/static/js/787.e77b6fc8.chunk.js.map"
+    "main.js": "/static/js/main.0f899463.js",
+    "static/js/787.e77b6fc8.chunk.js": "/static/js/787.e77b6fc8.chunk.js",
+    "index.html": "/index.html",
+    "main.0f899463.js.map": "/static/js/main.0f899463.js.map",
+    "787.e77b6fc8.chunk.js.map": "/static/js/787.e77b6fc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d0670af.js"
+    "static/js/main.0f899463.js"
   ]
 }
